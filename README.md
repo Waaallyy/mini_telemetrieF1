@@ -55,11 +55,6 @@ The app relies on a few FastF1 concepts worth knowing:
 - **FastF1** — official-grade F1 timing and telemetry data
 - **Matplotlib** — charts and the speed-colored track map
 
-## Possible improvements
-
-- Cumulative time delta between two drivers along the lap
-- Track map comparison showing which driver is faster at each point
-- Deployment to Streamlit Community Cloud for a public shareable link
 
 ## License
 
